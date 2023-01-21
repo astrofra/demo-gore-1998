@@ -7,4 +7,6 @@ Here are the source files, "as-is".<br>
 <br>
 ⚠️ Visuals & Audio might be offensive.
 <br>
-A [preview](https://www.youtube.com/watch?v=Hbsby1Vw_E8) can be found here.
+A [video preview](https://www.youtube.com/watch?v=Hbsby1Vw_E8) can be found here.<br>
+<br>
+![preview image](preview.png)
